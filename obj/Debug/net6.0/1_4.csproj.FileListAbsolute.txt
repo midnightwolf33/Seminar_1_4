@@ -1,0 +1,15 @@
+D:\Учеба\Seminars\1_4\bin\Debug\net6.0\1_4.exe
+D:\Учеба\Seminars\1_4\bin\Debug\net6.0\1_4.deps.json
+D:\Учеба\Seminars\1_4\bin\Debug\net6.0\1_4.runtimeconfig.json
+D:\Учеба\Seminars\1_4\bin\Debug\net6.0\1_4.dll
+D:\Учеба\Seminars\1_4\bin\Debug\net6.0\1_4.pdb
+D:\Учеба\Seminars\1_4\obj\Debug\net6.0\1_4.csproj.AssemblyReference.cache
+D:\Учеба\Seminars\1_4\obj\Debug\net6.0\1_4.GeneratedMSBuildEditorConfig.editorconfig
+D:\Учеба\Seminars\1_4\obj\Debug\net6.0\1_4.AssemblyInfoInputs.cache
+D:\Учеба\Seminars\1_4\obj\Debug\net6.0\1_4.AssemblyInfo.cs
+D:\Учеба\Seminars\1_4\obj\Debug\net6.0\1_4.csproj.CoreCompileInputs.cache
+D:\Учеба\Seminars\1_4\obj\Debug\net6.0\1_4.dll
+D:\Учеба\Seminars\1_4\obj\Debug\net6.0\refint\1_4.dll
+D:\Учеба\Seminars\1_4\obj\Debug\net6.0\1_4.pdb
+D:\Учеба\Seminars\1_4\obj\Debug\net6.0\1_4.genruntimeconfig.cache
+D:\Учеба\Seminars\1_4\obj\Debug\net6.0\ref\1_4.dll
